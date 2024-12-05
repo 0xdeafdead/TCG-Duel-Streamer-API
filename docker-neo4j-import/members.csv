@@ -1,0 +1,41 @@
+id,discordId,username,email,game,matches,wtl,points
+1,abc123,pedro,john.doe@example.com,onepiece,4,{ win: 8, tie: 5, lose: 2 },29
+2,abc124,juan,jane.smith@fakeemail.com,onepiece,2,{ win: 3, tie: 9, lose: 6 },18
+3,abc125,marta,bob.johnson@tempmail.com,onepiece,8,{ win: 1, tie: 7, lose: 4 },10
+4,abc126,jairo,alice.brown@dummyemail.com,onepiece,6,{ win: 9, tie: 2, lose: 8 },29
+5,abc127,camila,mike.davis@notreal.com,onepiece,4,{ win: 6, tie: 1, lose: 3 },19
+6,abc128,lupe,emily.chen@faketastic.com,onepiece,5,{ win: 4, tie: 8, lose: 5 },20
+7,abc129,luis,david.lee@madeupmail.com,onepiece,5,{ win: 7, tie: 6, lose: 9 },27
+8,abc120,maria,sarah.taylor@notvalid.com,onepiece,7,{ win: 2, tie: 4, lose: 1 },10
+9,abc121,zorman,kevin.white@pretendemail.com,onepiece,6,{ win: 5, tie: 3, lose: 7 },18
+10,abc122,auron,olivia.martin@bogusemail.com,onepiece,5,{ win: 9, tie: 8, lose: 6 },35
+11,def111,agumon,william.harris@falsify.com,digimon,3,{ win: 5, tie: 2, lose: 1 },17
+12,def112,gabumon,ava.garcia@unrealmail.com,digimon,4,{ win: 8, tie: 1, lose: 3 },25
+13,def113,biyomon,james.wilson@decoyemail.com,digimon,6,{ win: 2, tie: 5, lose: 4 },11
+14,def114,tentomon,isabella.diaz@misleadingmail.com,digimon,5,{ win: 9, tie: 4, lose: 2 },31
+15,def115,palmon,benjamin.parker@phonyemail.com,digimon,7,{ win: 1, tie: 3, lose: 6 },7
+16,def116,gatomon,lucas.brooks@spuriousmail.com,digimon,4,{ win: 6, tie: 2, lose: 1 },20
+17,def117,renamon,mason.gray@fictitiousmail.com,digimon,5,{ win: 4, tie: 6, lose: 3 },18
+18,def118,terriermon,logan.price@apocryphal.com,digimon,6,{ win: 7, tie: 1, lose: 5 },22
+19,def119,kyubimon,abigail.russell@bogusmail.com,digimon,3,{ win: 3, tie: 4, lose: 2 },13
+20,def120,wargreymon,caleb.patel@fictiveemail.com,digimon,8,{ win: 9, tie: 5, lose: 1 },32
+21,efg211,Bulbasaur,julia.kim@spuriousmail.com,pokemon,3,{ win: 7, tie: 2, lose: 4 },21
+22,efg212,Charmander,noah.hall@unauthentic.com,pokemon,6,{ win: 4, tie: 5, lose: 1 },19
+23,efg213,Squirtle,lily.tran@counterfeitmail.com,pokemon,8,{ win: 9, tie: 3, lose: 6 },30
+24,efg214,Pikachu,evelyn.nguyen@fictitiousmail.com,pokemon,5,{ win: 2, tie: 6, lose: 2 },14
+25,efg215,Charizard,gabriel.martinez@deceptiveemail.com,pokemon,7,{ win: 8, tie: 4, lose: 5 },30
+26,efg216,Blastoise,sophia.rodriguez@bogusmail.com,pokemon,4,{ win: 5, tie: 1, lose: 3 },17
+27,efg217,Jigglypuff,michael.brown@falsifiedmail.com,pokemon,5,{ win: 6, tie: 2, lose: 4 },18
+28,efg218,Wigglytuff,natalie.davis@unrealisticmail.com,pokemon,3,{ win: 3, tie: 4, lose: 3 },12
+29,efg219,Meowth,christopher.martin@apocryphal.com,pokemon,6,{ win: 1, tie: 7, lose: 2 },10
+30,efg220,Persian,hannah.taylor@misleadingmail.com,pokemon,8,{ win: 9, tie: 5, lose: 1 },32
+31,hijk311,Blue-Eyes White Dragon,joshua.white@phonyemail.com,yugioh,4,{ win: 8, tie: 1, lose: 2 },25
+32,hijk312,Exodia the Forbidden One,madison.parker@spuriousmail.com,yugioh,6,{ win: 4, tie: 5, lose: 3 },19
+33,hijk313,Black Luster,alexander.garcia@fictiveemail.com,yugioh,8,{ win: 9, tie: 3, lose: 4 },30
+34,hijk314,Obelisk the Tormentor,samantha.harris@bogusemail.com,yugioh,5,{ win: 2, tie: 6, lose: 1 },14
+35,hijk315,Slifer the Sky Dragon,ethan.lee@decoyemail.com,yugioh,7,{ win: 8, tie: 4, lose: 5 },30
+36,hijk316,Raigeki,jennifer.wilson@unauthentic.com,yugioh,4,{ win: 5, tie: 1, lose: 3 },17
+37,hijk317,Mystical Elf,logan.price@counterfeitmail.com,yugioh,5,{ win: 6, tie: 2, lose: 4 },18
+38,hijk318,Manju of the Ten Thousand Hands,abigail.russell@fictitiousmail.com,yugioh,3,{ win: 3, tie: 4, lose: 3 },12
+39,hijk319,The Winged Dragon of Ra,caleb.patel@spuriousmail.com,yugioh,6,{ win: 1, tie: 7, lose: 2 },10
+40,hijk320,Dark Magician,julia.kim@bogusmail.com,yugioh,8,{ win: 9, tie: 5, lose: 1 },32

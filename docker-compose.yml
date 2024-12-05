@@ -1,0 +1,23 @@
+name: tcg-duel-streamer-api
+
+services:
+  neo4j-dev:
+      container_name: tcg-api-neo4j
+      image: neo4j:5.25.1
+      restart: always
+      environment:
+        - NEO4J_ACCEPT_LICENSE_AGREEMENT=yes
+        - NEO4J_AUTH=neo4j/tcgBotApi
+        - NEO4J_apoc_export_file_enabled=true
+        - NEO4J_apoc_import_file_enabled=true
+        - NEO4J_apoc_import_file_use__neo4j__config=true
+        - NEO4J_PLUGINS=["apoc"]
+      ports:
+        - 7474:7474
+        - 7687:7687
+      volumes:
+        - neo4j:/var/lib/neo4j/data
+        - ./docker-neo4j-import:/import
+volumes:
+  neo4j: 
+    driver: local
